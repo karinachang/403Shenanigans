@@ -2,7 +2,7 @@ bailey
 baloo
 olga
 kay-ro
-chang
+[x] chang
 shass-on
 clent
 farmer
